@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">homework2</string>
+    <string name="enter_the_url_below">Enter URL below:</string>
+    <string name="www_example_com">www.example.com</string>
+    <string name="get_source_code">Get Source Code</string>
+</resources>
