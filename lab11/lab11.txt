@@ -1,0 +1,23 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2511
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Homework 1:\
+	I changed the andriodx.appcompat:appcompat version from 1.0.2 to 1.1.0.\
+	I changed the android:test:runner version from 1.1.1 to 1.2.0.\
+	I changed the version of Android.test.espreso:espresso:espresso-core from 3.1.1 to 3.2.0.\
+	For text sizes in activity_main.xml I changed it from \'93dp\'94 to \'93sp\'94.\
+	I extracted string for \'93Value 1\'94, \'93Value 2\'94, \'93Operator\'94 and \'93Operators\'94 from activity_main.xml instead of hardcoding it\
+	I made all the variable declarations private in MainActivity.\
+	In MainActivity , I changed the spelling in the comment of MainActivity from \'93mainactivity\'94\
+	I chose not to change the spelling of my name because it was giving me a warning on that. \
+	I also chose not to add the autofill hints in my EditText boxes because it was not necessary. \
+	I also not to change the spelling of one of the id name even though the checker was giving me 	a misspelling warning because I thought it was not necessary. \
+	There was no coding problem. \
+\
+\
+	\
+	}
